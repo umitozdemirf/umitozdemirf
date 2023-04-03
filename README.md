@@ -6,7 +6,7 @@
 
 ## Career Summary
 
-Hello, my name is Ümit Özdemir. I have been working as a QA Engineer for about 4 years. I have extensive experience in UI, Service, and Mobile Testing, encompassing both Functional and Non-Functional automation projects. I am proficient in creating well-structured automation projects and providing consulting services such as Test Automation migration and modernization to assist clients in achieving their goals. I am passionate about software quality and dedicated to delivering the best results in a collaborative and agile team environment. 
+Hello, my name is Ümit Özdemir. I have been working as a QA Engineer for about 5 years. I have extensive experience in UI, Service, and Mobile Testing, encompassing both Functional and Non-Functional automation projects. I am proficient in creating well-structured automation projects and providing consulting services such as Test Automation migration and modernization to assist clients in achieving their goals. I am passionate about software quality and dedicated to delivering the best results in a collaborative and agile team environment. 
 
 ## Skills
 
