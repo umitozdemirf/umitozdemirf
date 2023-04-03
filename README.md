@@ -1,4 +1,8 @@
 # Ümit Özdemir
+## Contact Information
+
+- Email: umitozdemirf@gmail.com
+- LinkedIn: linkedin.com/in/umttozdmr
 
 ## Career Summary
 
@@ -33,6 +37,16 @@ Soft Skills: Time Management, Teamwork, Problem-solving, Documentation, Eager to
 - Organized several webinars, including those featuring Experitest Mobile Test Platform
 - Technical Skills: Python, Ruby, Java, JavaScript, Selenium, Playwright, k6, Gatling, Locust, Experitest, Linux, Kubernetes, Docker, Git
 - Soft Skills: Eager to Learn, Self-Motivated, Problem-Solving, Multi-Tasking, Goal-Oriented, Leadership
+
+
+**NETAS Telecommunication - Software Developer** (Istanbul, Turkey) | Feb 2019 - Oct 2019 (9 mos)
+
+- Provided consulting services to Telecommunication companies in various domains, including building a SCIM and SSO service project providing identity such as LDAP, SSO, AD, IDP, and merging about 100,000 users to Azure LDAP.
+- Utilized Agile methodology such as SCRUM in team collaboration.
+- Proficient in Azure Cloud Platform.
+- Developed projects as part of an internship program in a team environment.
+- Experienced in the deployment process and developed over 50 tasks.
+- Worked on front-end projects using React and React Native.
 
 **bisigortaci.com (Insurtech) - Software Developer** (Istanbul, Turkey) | Jun 2018 - Dec 2018 (6 mos)
 
