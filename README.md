@@ -56,5 +56,5 @@ I'm [Ümit Özdemir](https://linkedin.com/in/umittozdemir), as QA Engineer from 
 <a href="https://linkedin.com/in/umttozdmr" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="umttozdmr" /></a>
 <a href="https://twitter.com/1umitozdemir" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="1umiozdemir" /></a>
 <a href="mailto:umitozdemirf@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="umitozdemirf" /></a>
-<a href="[https://batuhan-apaydin-11378.medium.com](https://medium.com/@umitozdemirf)" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@umitozdemirf" /></a>
+<a href="https://medium.com/@umitozdemirf" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@umitozdemirf"/></a>
 
