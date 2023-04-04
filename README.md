@@ -1,77 +1,59 @@
-# Ümit Özdemir
-## Contact Information
-
-- Email: umitozdemirf@gmail.com
-- LinkedIn: linkedin.com/in/umttozdmr
-
-## Career Summary
-
-Hello, my name is Ümit Özdemir. I have been working as a QA Engineer for about 5 years. I have extensive experience in UI, Service, and Mobile Testing, encompassing both Functional and Non-Functional automation projects. I am proficient in creating well-structured automation projects and providing consulting services such as Test Automation migration and modernization to assist clients in achieving their goals. I am passionate about software quality and dedicated to delivering the best results in a collaborative and agile team environment. 
-
-## Skills
-
-Programming: Linux, Python, Ruby, Java, Golang, Cypress, Playwright, Selenium, Appium, Docker, Kubernetes, Azure(Azure Pipelines), AWS(EC2, S3, Lambda), k6io, Gatling, Locust, JMeter 
-
-Miscellaneous: Linux, Shell (Bash/Zsh), GIT, BDD, TDD, CI/CD 
-
-Soft Skills: Time Management, Teamwork, Problem-solving, Documentation, Eager to Learn
-
-## Work Experience
-
-**Firefly Inc. - QA Engineer** (San Francisco, California) | Nov 2022 - Present (5 mos)
-
-- Developed service tests using Python Robot Framework and monitored systems using Google Cloud Platform tools such as BigQuery and Logs Explorer
-- Conducted manual testing processes by creating and applying test scenarios, and reporting any bugs to improve the quality of the software
-- Worked in a Kubernetes environment
-- Collaborated closely with software developers to debug and ensure project completion within deadlines
-- Technical Skills: Python with Pytest, Robot Framework and FastAPI, Linux, Kubernetes, Docker, Scripting, Git
-- Soft Skills: Teamwork, Time Management, Communication
-
-**kloia - QA Consultant** (London, United Kingdom) | Oct 2019 - Oct 2022 (3 yrs)
-
-- Provided consulting services to e-commerce and fintech companies in various domains, including UI, service, performance, and mobile testing
-- Conducted UI tests using Selenium, Cucumber, pytest, and Behave, with the most frequent use of Python, Java, Ruby, and JavaScript programming languages
-- Conducted service tests using Karate Framework, Ruby HTTParty, Postman, and Python
-- Conducted performance tests using k6, Gatling, and Locust
-- Conducted mobile tests using Appium in Ruby, Java, and Python programming languages and knowledge of mobile device platforms such as Experitest, AWS DeviceFarm, and App Center
-- Organized several webinars, including those featuring Experitest Mobile Test Platform
-- Technical Skills: Python, Ruby, Java, JavaScript, Selenium, Playwright, k6, Gatling, Locust, Experitest, Linux, Kubernetes, Docker, Git
-- Soft Skills: Eager to Learn, Self-Motivated, Problem-Solving, Multi-Tasking, Goal-Oriented, Leadership
+## Hi there, I'm Ümit Özdemir 👋 ![](https://komarev.com/ghpvc/?username=umitozdemirf&color=green&&style=flat)
 
 
-**NETAS Telecommunication - Software Developer** (Istanbul, Turkey) | Feb 2019 - Oct 2019 (9 mos)
 
-- Provided consulting services to Telecommunication companies in various domains, including building a SCIM and SSO service project providing identity such as LDAP, SSO, AD, IDP, and merging about 100,000 users to Azure LDAP.
-- Utilized Agile methodology such as SCRUM in team collaboration.
-- Proficient in Azure Cloud Platform.
-- Developed projects as part of an internship program in a team environment.
-- Experienced in the deployment process and developed over 50 tasks.
-- Worked on front-end projects using React and React Native.
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝I think it's important to be creative in both business and individual life❞</i>
+<!--ENDS_HERE_QUOTE_README-->
 
-**bisigortaci.com (Insurtech) - Software Developer** (Istanbul, Turkey) | Jun 2018 - Dec 2018 (6 mos)
+<!--<img align="right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-- Experienced communication between the server and the web using HTTP
-- Worked with .NET Core and gained experience with MVC structure and n-tier architecture 
-- Focused on problem-solving for users and spent 70 percent of the time in this field
-- Technical Skills: .NET Core, HTML, CSS, Javascript, MVC, docker, Linux environment
-- Soft Skills: Problem-Solving
+Hello and welcome to my GitHub profile! I'm [Ümit Özdemir](https://linkedin.com/in/umittozdemir), a QA Engineer from Turkey with extensive experience in UI, service, performance, and mobile testing. I'm passionate about software quality and dedicated to delivering the best results in a collaborative and agile team environment. I'm experienced in creating well-structured automation projects using programming languages such as Python, JavaScript, Ruby, and Java. Additionally, as a Certified Kubernetes Administrator, I have knowledge of container orchestration. Let's connect and collaborate on some exciting projects together!
 
-## Education
+### Talking about Personal Stuffs
+📚 In my free time, I enjoy reading books on technology, science fiction, and philosophy. \
+🏖️ I love to travel and experience new cultures. I have visited several countries and hope to continue exploring new places. \
+🤳 I'm passionate about photography and enjoy capturing beautiful moments and landscapes with my camera. \
+🏃‍♂️ I enjoy staying active through various physical activities such as running, hiking, and football. \
+🎶 I'm a big fan of music and enjoy listening to a variety of genres, from classical to rock to electronic. \
+🕴️ I'm a lifelong learner and enjoy taking online courses and attending workshops to stay up-to-date on the latest industry trends and technologies.
 
-**University of Namık Kemal Tekirdağ / Türkiye** | Computer Engineering | Sept 2015 - Jun 2019
+### 🧰 Languages and Tools
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
+    <img src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="selenium" width="40" height="40" />
+    <img src="https://playwright.dev/python/img/playwright-logo.svg" alt="playwright" width="40" height="40" />
+    <img src="https://docs.pytest.org/en/7.2.x/_static/pytest_logo_curves.svg" alt="pytest" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ruby_logo.png/599px-Ruby_logo.png?20061027055035" alt="ruby" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/k6-logo-with-grafana.svg" alt="k6" height="40" />
+    <img src="https://static1.smartbear.co/cucumber/media/images/logos/icons/cucumber-open-icon.svg" alt="cucumber" width="40" height="40" />
+    <img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="40" height="40" />
+    <img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" alt="bash" width="40" height="40" />
+    <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <img src="https://github.com/github/explore/raw/main/topics/go/go.png" alt="go" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
+    <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40" />
+    <img src="https://cncf-branding.netlify.app/img/projects/notary/icon/color/notary-icon-color.png" alt="k3s" width="40" height="40" />
+    <img src="https://appium.io/img/appium-logo-sauce-white.png" alt="appium" height="40" />
+</p>
 
-- Courses: Data Science, Programming for Data Science, Knowledge Representation and Reasoning, Statistical Theory and Methods, Learning Skills through Case Studies, Artificial Intelligence, Machine Learning, Statistical Learning
+### 🔏 Certificates
+<p align="left">
+    <a href="https://www.credly.com/badges/45bb5d98-77b6-42b1-84a7-5bfb5b8e144d/public_url"> 
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png" alt="https://www.credly.com/badges/45bb5d98-77b6-42b1-84a7-5bfb5b8e144d/public_url" width="100" height="100"> 
+    </a>
+    <a href="https://app.diplomasafe.com/en-US/diploma/d5e2d09de7b5976ee73ecec6a7e58e62e43066420/istqb-foundation-level-ctfl"> 
+        <img src="https://www.istqb.org/static/istqb-logo-1b043e800a580724ad223567f9ea57c0.png" alt="https://app.diplomasafe.com/en-US/diploma/d5e2d09de7b5976ee73ecec6a7e58e62e43066420/istqb-foundation-level-ctfl"  height="100" /> 
+    </a>
+    <a href="">
+        <img src="https://pbs.twimg.com/profile_images/1133185636096040960/c9o6UlSh_400x400.png" width=""height="100">
+    </a>
+</p>
 
-## Certificates
-
-- 2021 ISTQB Foundation Level, Credential ID = d5e2d09de7b5976ee73ecec6a7e58e62e43066420
-- 2022 CKA (Certified Kubernetes Administrator), Credential ID = LF-3ceq11uunj
-- 2022 Playwright, Test Automation University
-- 2022 Pytest, Test Automation University
-
-## Languages
-
-- English: Professional proficiency
-- Turkish: Native proficiency
-
-References available upon request.
+### 🦉 Connect with me 
+<a href="https://linkedin.com/in/umttozdmr" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="umttozdmr" /></a>
+<a href="https://twitter.com/1umitozdemir" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="1umiozdemir" /></a>
+<a href="mailto:umitozdemirf@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+" alt="1umiozdemir" /></a>
