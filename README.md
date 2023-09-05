@@ -8,7 +8,7 @@
 
 <!--<img align="right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-I'm [Ümit Özdemir](https://linkedin.com/in/umittozdemir), as QA Engineer from Turkey with extensive experience in software testing including UI, service, performance, and mobile. I'm skilled in creating automation projects using Python, JavaScript, Ruby, and Java. I'm also a Certified Kubernetes Administrator. Let's collaborate on some exciting projects together!
+I'm [Ümit Özdemir](https://linkedin.com/in/umittozdemir), as QA Engineer from Turkiye with extensive experience in software testing including UI, service, performance, and mobile. I'm skilled in creating automation projects using Python, JavaScript, Ruby, and Java. I'm also a Certified Kubernetes Administrator. Let's collaborate on some exciting projects together!
 
 ### Talking about Personal Stuffs
 📚 In my free time, I enjoy reading books on technology, science fiction, and philosophy. \
